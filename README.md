@@ -1,7 +1,7 @@
-[![Toham]()]([(https://bachelart.fr/)]
+[![luckix]()]([(https://bachelart.fr/)]
 
 ## 🚀 About Me
-I'm a **Symfony** developer since 2010 ! I like to share what I do with my community on [Twitch](https://twitch.tv/toham).
+I'm a **Symfony** developer
 * 🏡️ I'm currently working as a developper with Apimo !
 * 📬️ How to reach me : [@](luc.bachelerie²apimo.com)
 
